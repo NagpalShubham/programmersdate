@@ -1,0 +1,57 @@
+body{
+	background-position: center;
+	background-size: cover;
+	font-family: Lato;
+	color: white;
+}
+
+
+#content{
+	text-align: center;
+	padding-top: 25%;
+	color: #4961e1;
+}
+h1{
+	 font-weight: 900;
+	 font-size: 8em;
+}
+.back{
+		background: url(https://www.stiegelmeyer.com/fileadmin/_processed_/3/2/csm_9305_Deka_mechanisch_Interkontinental_3tlg_LF_01_2016_10_a46a9e8588.jpg);
+         height: 700px;
+}
+#hr1{
+	width: 1000px;
+	background-color: white;
+	border-top: 1px solid #f8f8f8;
+	border-bottom: 1px solid rgba(0,0,0,0.1);
+}
+#bt {
+	padding-right: 5px;
+	color: white;
+}
+#bt2{
+	color: white;
+}
+hr.style-three {
+    border: 0;
+    border-bottom: 1px dashed #ccc;
+    background: #999;
+    align-items: center;
+    background-color: #778899;
+
+}
+.para{
+	text-align: center;
+	align-items: center;
+	font-size: 30px;
+	color: #7B68EE;
+}
+.page-footer{
+	background-color: #e6e6fa;
+}
+
+.broad{
+	padding-right: 20%;
+	padding-left: 30%;
+	padding-top: 10%;
+}
